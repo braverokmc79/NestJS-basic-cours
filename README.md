@@ -4,7 +4,7 @@
 
 ##### 유튜브 강의 목록 : https://www.youtube.com/playlist?list=PL9a7QRYt5fqkowXUgTj_tbkFClsPhO5XV
 
-##### 강의 파일 : https://github.com/jaewonhimnae/nestjs-board-app
+##### 강의 파일 : https://github.com/braverokmc79/NestJS-basic-cours/tree/main/NestJS-Diagram
 
 ##### 완성본 소스 (John Ahn)  :  https://github.com/jaewonhimnae/nestjs-board-app
 
