@@ -129,21 +129,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-<select id="book_div" class="form-control" id="genre" name="genre" >
-<option value="가정" ${bookVO.genre eq '가정' ? 'selected' :''}>가정</option>
-<option value="건강" ${bookVO.genre eq '건강' ? 'selected' :''}>건강</option>
-<option value="취미" ${bookVO.genre eq '취미' ? 'selected' :''}>취미</option>
-<option value="경제" ${bookVO.genre eq '경제' ? 'selected' :''}>경제</option>
-<option value="경영" ${bookVO.genre eq '경영' ? 'selected' :''}>경영</option>
-<option value="국어" ${bookVO.genre eq '국어' ? 'selected' :''}>국어</option>
-<option value="외국어" ${bookVO.genre eq '외국어' ? 'selected' :''}>외국어</option>
-<option value="만화" ${bookVO.genre eq '만화' ? 'selected' :''}>만화</option>
-<option value="사회" ${bookVO.genre eq '사회' ? 'selected' :''}>사회</option>
-<option value="정치" ${bookVO.genre eq '정치' ? 'selected' :''}>정치</option>
-<option value="자격증" ${bookVO.genre eq '자격증' ? 'selected' :''}>자격증</option>
-<option value="어린이" ${bookVO.genre eq '어린이' ? 'selected' :''}>어린이</option>
-<option value="예술" ${bookVO.genre eq '예술' ? 'selected' :''}>예술</option>
-<option value="역사" ${bookVO.genre eq '역사' ? 'selected' :''}>역사</option>
-<option value="IT" ${bookVO.genre eq 'IT' ? 'selected' :''}>IT</option>
-</select>
